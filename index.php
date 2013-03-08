@@ -39,7 +39,7 @@
 					<!--<img src="images/image1.jpg" />-->
 					<img src="images/image2.jpg" /><br><br>
 					
-					<a href="register.php">REGISTER YOUR COURS OCH GOAL</a>
+					<a href="register.php">REGISTER YOUR COURS AND GOAL</a>
 					<!--<img src="images/image3.jpg" /> -->
 			 
 				
